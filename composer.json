@@ -1,5 +1,5 @@
 {
-    "name": "google/cloud-firestore",
+    "name": "morrislaptop/google-cloud-firestore-nogrpc",
     "description": "Cloud Firestore client for PHP",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
